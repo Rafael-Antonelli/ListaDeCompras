@@ -8,3 +8,5 @@ Utilizados:
 - Manipulação de arquivos,
 - Estruturas básicas da liguagem Java, 
 - Conceitos de OO.
+
+Nesse projeto não utilizei nenhum tipo de tratamento de erros. 
